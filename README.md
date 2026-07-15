@@ -35,4 +35,8 @@
   <img src="https://skillicons.dev/icons?i=github,githubactions,docker,wordpress,aws,firebase,jest,figma,postman,vscode&perline=10" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mo7amed-Boukab&label=Profile%20Views&color=0E7490&style=flat" />
+</p>
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:0E7490&height=120&section=footer)
